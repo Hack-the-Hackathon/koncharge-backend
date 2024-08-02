@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KonChangeAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a0cf3bc3269d4a414faaca2ceb72e51b7fb5141")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80b74396e0d49027172c0aa408e48b7aab6956cb")]
 [assembly: System.Reflection.AssemblyProductAttribute("KonChangeAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KonChangeAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
