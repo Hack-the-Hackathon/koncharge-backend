@@ -24,7 +24,7 @@ namespace KonChargeAPI
             //Add autorization and identity
             builder.Services.AddAuthorization();
 
-            builder.Services.AddIdentityApiEndpoints<IdentityUser>()
+            builder.Services.AddIdentityApiEndpoints<ApplicationUser>()
                 .AddEntityFrameworkStores<AuthDbContext>();
 
             builder.Services.AddControllers();
@@ -68,7 +68,7 @@ namespace KonChargeAPI
 
             var app = builder.Build();
 
-            app.MapIdentityApi<IdentityUser>();
+            app.MapIdentityApi<ApplicationUser>();
 
             // Only use swagger if we are in development enviroment
             if (app.Environment.IsDevelopment())
