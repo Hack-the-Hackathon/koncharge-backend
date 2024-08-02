@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "QxPEmSb5BnEsXy66sqTQMdTDc6a8Um8/INP5wkOC8aBqF1GAIWkw86bjkksd4bTUfGlboeigoEYAPH6RGDaDpA==",
+  "dgSpecHash": "hG1NBUYyEwhD12PKTdy53XhzkrreLTcK6GpFTQsduGxhkHwlnQnzYqPdA5I+leFXKErPIZ0sEngZBTjPUsWlmw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Marku\\Documents\\ATAN-GAMES\\Hackathon\\HackathonBackend\\KonChangeAPI\\KonChargeAPI.csproj",
   "expectedPackageFiles": [
@@ -27,6 +27,7 @@
     "C:\\Users\\Marku\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
     "C:\\Users\\Marku\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\Marku\\.nuget\\packages\\microsoft.extensions.dependencymodel\\8.0.1\\microsoft.extensions.dependencymodel.8.0.1.nupkg.sha512",
+    "C:\\Users\\Marku\\.nuget\\packages\\microsoft.extensions.http\\2.1.0\\microsoft.extensions.http.2.1.0.nupkg.sha512",
     "C:\\Users\\Marku\\.nuget\\packages\\microsoft.extensions.identity.core\\8.0.7\\microsoft.extensions.identity.core.8.0.7.nupkg.sha512",
     "C:\\Users\\Marku\\.nuget\\packages\\microsoft.extensions.identity.stores\\8.0.7\\microsoft.extensions.identity.stores.8.0.7.nupkg.sha512",
     "C:\\Users\\Marku\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
@@ -36,6 +37,8 @@
     "C:\\Users\\Marku\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\Marku\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
     "C:\\Users\\Marku\\.nuget\\packages\\mysqlconnector\\2.3.5\\mysqlconnector.2.3.5.nupkg.sha512",
+    "C:\\Users\\Marku\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Marku\\.nuget\\packages\\openai\\1.11.0\\openai.1.11.0.nupkg.sha512",
     "C:\\Users\\Marku\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\8.0.2\\pomelo.entityframeworkcore.mysql.8.0.2.nupkg.sha512",
     "C:\\Users\\Marku\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\Marku\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
