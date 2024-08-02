@@ -1,0 +1,11 @@
+@KonChangeAPI_HostAddress = http://localhost:5249
+
+GET {{KonChangeAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{KonChangeAPI_HostAddress}}/testrequest/
+Accept: application/json
+
+###
