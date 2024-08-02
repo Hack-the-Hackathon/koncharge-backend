@@ -1,0 +1,15 @@
+C:\Users\Marku\Documents\ATAN-GAMES\Hackathon\HackathonBackend\KonCharge\bin\Debug\net8.0\KonCharge.exe
+C:\Users\Marku\Documents\ATAN-GAMES\Hackathon\HackathonBackend\KonCharge\bin\Debug\net8.0\KonCharge.deps.json
+C:\Users\Marku\Documents\ATAN-GAMES\Hackathon\HackathonBackend\KonCharge\bin\Debug\net8.0\KonCharge.runtimeconfig.json
+C:\Users\Marku\Documents\ATAN-GAMES\Hackathon\HackathonBackend\KonCharge\bin\Debug\net8.0\KonCharge.dll
+C:\Users\Marku\Documents\ATAN-GAMES\Hackathon\HackathonBackend\KonCharge\bin\Debug\net8.0\KonCharge.pdb
+C:\Users\Marku\Documents\ATAN-GAMES\Hackathon\HackathonBackend\KonCharge\obj\Debug\net8.0\KonCharge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marku\Documents\ATAN-GAMES\Hackathon\HackathonBackend\KonCharge\obj\Debug\net8.0\KonCharge.AssemblyInfoInputs.cache
+C:\Users\Marku\Documents\ATAN-GAMES\Hackathon\HackathonBackend\KonCharge\obj\Debug\net8.0\KonCharge.AssemblyInfo.cs
+C:\Users\Marku\Documents\ATAN-GAMES\Hackathon\HackathonBackend\KonCharge\obj\Debug\net8.0\KonCharge.csproj.CoreCompileInputs.cache
+C:\Users\Marku\Documents\ATAN-GAMES\Hackathon\HackathonBackend\KonCharge\obj\Debug\net8.0\KonCharge.sourcelink.json
+C:\Users\Marku\Documents\ATAN-GAMES\Hackathon\HackathonBackend\KonCharge\obj\Debug\net8.0\KonCharge.dll
+C:\Users\Marku\Documents\ATAN-GAMES\Hackathon\HackathonBackend\KonCharge\obj\Debug\net8.0\refint\KonCharge.dll
+C:\Users\Marku\Documents\ATAN-GAMES\Hackathon\HackathonBackend\KonCharge\obj\Debug\net8.0\KonCharge.pdb
+C:\Users\Marku\Documents\ATAN-GAMES\Hackathon\HackathonBackend\KonCharge\obj\Debug\net8.0\KonCharge.genruntimeconfig.cache
+C:\Users\Marku\Documents\ATAN-GAMES\Hackathon\HackathonBackend\KonCharge\obj\Debug\net8.0\ref\KonCharge.dll
