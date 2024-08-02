@@ -1,8 +1,10 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 
-namespace KonChangeAPI.Controllers
+namespace KonChargeAPI.Controllers
 {
     [ApiController]
+    [Authorize]
     [Route("testRequest")]
     public class TestController : ControllerBase
     {
