@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34408.163
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KonChargeAPI", "KonChangeAPI\KonChargeAPI.csproj", "{42042C83-AC1B-4900-961B-D8C9D15E98D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KonChargeAPI", "KonChargeAPI\KonChargeAPI.csproj", "{026BF1D1-4D2D-4E0A-BC65-39140BA48585}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{42042C83-AC1B-4900-961B-D8C9D15E98D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{42042C83-AC1B-4900-961B-D8C9D15E98D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{42042C83-AC1B-4900-961B-D8C9D15E98D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{42042C83-AC1B-4900-961B-D8C9D15E98D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{026BF1D1-4D2D-4E0A-BC65-39140BA48585}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{026BF1D1-4D2D-4E0A-BC65-39140BA48585}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{026BF1D1-4D2D-4E0A-BC65-39140BA48585}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{026BF1D1-4D2D-4E0A-BC65-39140BA48585}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
